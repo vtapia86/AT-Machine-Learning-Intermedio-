@@ -1,6 +1,6 @@
  Laboratorio Capitulo 2:Ingeniería de Datos para Machine Learning
  
--Problema a desarrollar
+Problema a desarrollar
 Una empresa de comercio electrónico quiere mejorar sus recomendaciones de productos utilizando machine learning. Para ello, necesitan procesar y analizar sus datos de interacciones de usuarios con productos. Tu tarea es crear un pipeline de ingeniería de datos que prepare estos datos para su uso en un modelo de recomendación.
  Objetivos
 - Trabajar con fuentes de datos y realizar etiquetado
