@@ -1,11 +1,13 @@
- Laboratorio Capitulo 2: Ingeniería de Datos para Machine Learning
- Problema a desarrollar
+ Laboratorio Capitulo 2:
+ Ingeniería de Datos para Machine Learning
+Problema a desarrollar
 Una empresa de comercio electrónico quiere mejorar sus recomendaciones de productos utilizando machine learning. Para ello, necesitan procesar y analizar sus datos de interacciones de usuarios con productos. Tu tarea es crear un pipeline de ingeniería de datos que prepare estos datos para su uso en un modelo de recomendación.
  Objetivos
 - Trabajar con fuentes de datos y realizar etiquetado
 - Implementar almacenamiento y versionamiento de datos
 - Procesar datos utilizando PySpark
 - Crear y testear pipelines de datos
+- 
  Paso 1: Fuentes y etiquetado de datos
  1.1 Crear un dataset de ejemplo
 Primero, vamos a crear un dataset de ejemplo que simule las interacciones de usuarios con productos.
