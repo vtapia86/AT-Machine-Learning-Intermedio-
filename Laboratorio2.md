@@ -7,7 +7,7 @@ Una empresa de comercio electrónico quiere mejorar sus recomendaciones de produ
 - Implementar almacenamiento y versionamiento de datos
 - Procesar datos utilizando PySpark
 - Crear y testear pipelines de datos
-- 
+  
  Paso 1: Fuentes y etiquetado de datos
 
  1.1 Crear un dataset de ejemplo
