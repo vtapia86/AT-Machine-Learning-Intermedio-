@@ -1,4 +1,4 @@
- Laboratorio: Desarrollo y Evaluación de Modelos de Machine Learning
+ Laboratorio Capitulo 3 : Desarrollo y Evaluación de Modelos de Machine Learning
  
 Problema a desarrollar:Una empresa de préstamos quiere mejorar su proceso de aprobación de créditos utilizando machine learning. Tu tarea es desarrollar un modelo de clasificación para predecir si un solicitante pagará el préstamo a tiempo o no. Deberás experimentar con diferentes modelos, realizar un seguimiento de tus experimentos, versionar tu código y modelo, calibrar el modelo final y monitorear el rendimiento del modelo a lo largo del tiempo para detectar concept drift.
 
