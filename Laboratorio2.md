@@ -9,6 +9,7 @@ Una empresa de comercio electrónico quiere mejorar sus recomendaciones de produ
 - Crear y testear pipelines de datos
 - 
  Paso 1: Fuentes y etiquetado de datos
+
  1.1 Crear un dataset de ejemplo
 Primero, vamos a crear un dataset de ejemplo que simule las interacciones de usuarios con productos.
 Crea un archivo llamado `generate_data.py` con el siguiente contenido:
