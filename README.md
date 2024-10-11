@@ -14,7 +14,7 @@ El enfoque del curso es *práctico*, con ejemplos y actividades que permiten apl
  - *Práctica 1 :*
 - *[Práctica 1: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
  - *Práctica 2 :*
-- *[Práctica 2: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- *[Práctica 2: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio2.md)*
  - *Práctica 3:*
 - *[Práctica 3: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
 - *Práctica 4:*
