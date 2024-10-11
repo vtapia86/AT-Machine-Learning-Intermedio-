@@ -12,7 +12,7 @@ El enfoque del curso es *práctico*, con ejemplos y actividades que permiten apl
 
 ### Índice:
 
-- *[Práctica 1: Quiz de reforzamiento](enlace_a_practica_1)*
+- *[Práctica 1: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
 - *Práctica 2:*
   - [Parte 1: Ordenando Datos](https://www.google.com/search?q=status+code+201&rlz=1C5CHFA_enCL929CL929&oq=status+code+201&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM5NjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
   - [Parte 2: Filtrando Datos](enlace_a_practica_2_2)
