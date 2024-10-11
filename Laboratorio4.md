@@ -1,5 +1,7 @@
  Laboratorio: Entrenamiento y Debugging de Modelos de Machine Learning
+ 
  Introducción:En este laboratorio, abordaremos el proceso de entrenamiento, debugging, evaluación y mejora de un modelo de machine learning. Nos centraremos en un problema de clasificación de imágenes de dígitos escritos a mano, utilizando el conjunto de datos MNIST.
+ 
  Problema a desarrollar:Desarrollar un modelo de clasificación para reconocer dígitos escritos a mano (0-9) a partir de imágenes en escala de grises de 28x28 píxeles.
  Objetivos
 - Implementar un modelo de red neuronal para clasificación de imágenes
