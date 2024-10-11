@@ -165,7 +165,7 @@ services:
    curl -X POST -H "Content-Type: application/json" -d '{"movie_id": 1}' http://localhost:5000/recommend
    ```
 3. Accede a Grafana en `http://localhost:3000` y configura el dashboard para visualizar las métricas.
- Conclusión
+-Conclusión
 Este laboratorio te ha introducido a conceptos clave en el despliegue y monitoreo de modelos de ML:
 - Implementación de un servicio de predicción con Flask
 - Uso de Prometheus para la recopilación de métricas
