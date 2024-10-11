@@ -1,22 +1,28 @@
 # AT-Machine-Learning-Intermedio-
 # VICTOR TAPIA_AT_Machine_Learning_I
 
-## Curso: Cómo aprovechar los datos para tomar decisiones, sin ser un analítico
+## Curso: Ciencia de los Datos e Ingeniería de Software
+### Descripción del curso
+Este curso tiene como objetivo proporcionar los fundamentos y herramientas necesarios para desarrollar proyectos de ciencia de datos, abarcando desde la ingeniería de software hasta la implementación y monitoreo de modelos de Machine Learning (ML). Cada capítulo se enfoca en un aspecto esencial del ciclo de vida de un proyecto de datos.
 
-### Descripción del curso:
-Este curso está diseñado para profesionales en áreas administrativas y analistas de tecnología que desean mejorar sus habilidades en la gestión y análisis de datos para la toma de decisiones informadas.
-
-A lo largo de seis módulos, los participantes aprenderán a recopilar, organizar, limpiar, analizar y presentar datos utilizando herramientas como *Excel, **Power Query* y una introducción a *Power BI*.
+Estructura del curso
+El curso está organizado en ocho capítulos, con actividades prácticas al final de cada uno para reforzar los conceptos aprendidos.
 
 El enfoque del curso es *práctico*, con ejemplos y actividades que permiten aplicar los conceptos aprendidos en situaciones reales de trabajo.
 
 ### Índice:
-
+ - *Práctica 1 :*
 - *[Práctica 1: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
-- *Práctica 2:*
-  - [Parte 1: Ordenando Datos](https://www.google.com/search?q=status+code+201&rlz=1C5CHFA_enCL929CL929&oq=status+code+201&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM5NjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
-  - [Parte 2: Filtrando Datos](enlace_a_practica_2_2)
-  - [Parte 3: Usando funciones de Bases de Datos](enlace_a_practica_2_3)
+ - *Práctica 2 :*
+- *[Práctica 2: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- *[Práctica 1: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- *[Práctica 1: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- *[Práctica 1: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- - *[Práctica 1: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+  - - *[Práctica 1: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+    - - *[Práctica 1: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- *Práctica 2: [Parte 1: Ordenando Datos]()
+  
 - *Práctica 3:*
   - [3.1. Limpieza de Datos](enlace_a_practica_3_1)
   - [3.2. Trabajando con funciones de limpieza de texto](enlace_a_practica_3_2)
