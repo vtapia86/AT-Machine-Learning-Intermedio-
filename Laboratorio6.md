@@ -2,10 +2,10 @@ Laboratorio Capitulo 6: Deployment y Monitoring en Machine Learning
 
 
  Objetivos
-	Comprender el proceso de despliegue (deployment) de un modelo de Machine Learning
-	Implementar un servicio de predicción básico
-	Aprender a monitorear un modelo en producción
-	Familiarizarse con herramientas y técnicas comunes en el despliegue y monitoreo de modelos ML
+-Comprender el proceso de despliegue (deployment) de un modelo de Machine Learning
+-	Implementar un servicio de predicción básico
+-	Aprender a monitorear un modelo en producción
+-	Familiarizarse con herramientas y técnicas comunes en el despliegue y monitoreo de modelos ML
 
  Problema: 
 Sistema de Recomendación de Películas
