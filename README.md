@@ -1,5 +1,5 @@
 # AT-Machine-Learning-Intermedio-
-# ANA_PQRY_PBI
+# VICTOR TAPIA_AT_Machine_Learning_I
 
 ## Curso: Cómo aprovechar los datos para tomar decisiones, sin ser un analítico
 
