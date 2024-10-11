@@ -16,17 +16,17 @@ El enfoque del curso es *práctico*, con ejemplos y actividades que permiten apl
  - *Práctica 2 :*
 - *[Práctica 2: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio2.md)*
  - *Práctica 3:*
-- *[Práctica 3: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- *[Práctica 3: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio3.md)*
 - *Práctica 4:*
-- *[Práctica 4: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- *[Práctica 4: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio4.md)*
 - *Práctica 5:*
-- *[Práctica 5: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- *[Práctica 5: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio5.md)*
 - *Práctica 6:*
- - *[Práctica 6: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+ - *[Práctica 6: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio6.md)*
  - *Práctica 7:*
-- *[Práctica 7: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- *[Práctica 7: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio7.md)*
  - *Práctica 8:*
-- *[Práctica 8: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio1.md)*
+- *[Práctica 8: Quiz de reforzamiento](https://github.com/vtapia86/AT-Machine-Learning-Intermedio-/blob/main/Laboratorio8.md)*
 
   
 
