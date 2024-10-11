@@ -1,4 +1,4 @@
- Laboratorio: Entrenamiento y Debugging de Modelos de Machine Learning
+ Laboratorio Capitulo 4: Entrenamiento y Debugging de Modelos de Machine Learning
  
  Introducción:En este laboratorio, abordaremos el proceso de entrenamiento, debugging, evaluación y mejora de un modelo de machine learning. Nos centraremos en un problema de clasificación de imágenes de dígitos escritos a mano, utilizando el conjunto de datos MNIST.
  
